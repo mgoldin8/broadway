@@ -40,6 +40,11 @@ p.footer {
   text-align: left;
 }
 
+.flink {
+  font-size: 11px;
+  background-color: dimgray;
+}
+
 h4 {
   font-size: 23px;
   font-weight: bold;
