@@ -3,13 +3,18 @@ body {
   font-family: Helvetica;
 }
 
+.top {
+  background-image: url("./background-images/the-flatiron-building.png");
+  background-repeat: no-repeat;
+}
+
 h1 {
   font-size: 70px;
   font-weight: bold;
   color: white;
 }
 
-nav {
+a {
   font-size: 18px;
   color: white;
 }
@@ -39,4 +44,5 @@ h4 {
   font-size: 23px;
   font-weight: bold;
   color: white;
+  background-image: url("./background-images/the-flatiron-building.png");
 }
